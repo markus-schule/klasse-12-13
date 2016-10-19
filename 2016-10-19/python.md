@@ -1,5 +1,9 @@
 # Einführung
 Bei allen Aufgaben sollen Notizen gemacht werden.
+Die Übungen können in Linux und Mac im Terminal gemacht werden.
+
+In Windows können die Übungen mit [Python Shell](https://www.python.org/shell/) gemacht werden.
+
 
 Die `Python-Entwicklungsumgebung` kann man im Terminal mit dem Befehl
 
