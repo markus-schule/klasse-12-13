@@ -6,8 +6,7 @@ Arbeite die Beispiele der folgenden Seite *im Terminal* durch :
 
 # Aufgabe 2
 * Wozu sind String Operationen nützlich?
-
-Was ergeben folgende Befehle?
+* Was ergeben folgende Befehle in Abschnitt 2.1 und 2.2?
 
 ## 2.1
 ```python
