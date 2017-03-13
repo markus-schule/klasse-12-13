@@ -8,6 +8,6 @@ Arbeite die Lektion [Getting Started with Markdown](http://programminghistorian.
 Speichere das Ergebnis unter dem Ordner `https://github.com/markus-schule/klasse-12-13/tree/master/2017-03-15`ab indem Du den Schritten der Beschreibung folgst:[Step 3. Make and commit changes](https://guides.github.com/activities/hello-world/#commit).
 
 Verwende dabei folgende Benennung:
-```
-<vorname>-<ersterbuchstabe-nachname>.md
+```HTML
+<vorname>-<anfangsbuchstabe-nachname>.md
 ```
