@@ -9,7 +9,7 @@
 * Beurteilung der Leistung erfolgt anhand folgender Kriterien
 	* Schriftarten, Schriftschnitte, Schriftgrößen;
 	* Farbkonzept;
-	* Bilder (Datenformat, Auflösung, Zuschnitt etc
+	* Bilder (Datenformat, Auflösung, Zuschnitt etc)
 	* Originalität
 	* Qualität des Inhaltes
 
