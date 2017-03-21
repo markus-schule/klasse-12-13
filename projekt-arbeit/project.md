@@ -6,6 +6,12 @@
 * Die Projektarbeit erfolgt in Teams mit von zwei bis 4 Personen.
 * Jede Gruppe erstellt ein eigenes Repository in [https://github.com/thecornerstones](https://github.com/thecornerstones)
 * Das Projektergebnis muss bis `17.05.2017` fertiggestellt als Website auf [Github pages](https://pages.github.com/) verfügbar sein.
+* Beurteilung der Leistung erfolgt anhand folgender Kriterien
+	* Schriftarten, Schriftschnitte, Schriftgrößen;
+	* Farbkonzept;
+	* Bilder (Datenformat, Auflösung, Zuschnitt etc
+	* Originalität
+	* Qualität des Inhaltes
 
 ### Inhalt
 Die Website soll Inhalte anderer Schulfächer präsentieren / darstellen / erklären.
