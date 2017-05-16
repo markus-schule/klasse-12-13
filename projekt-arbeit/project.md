@@ -45,4 +45,12 @@ Nachdem Du einen Github Account erstellt hast, ist es Zeit, mit folgenden Techno
 * [Table Editor](http://truben.no/table/)
 
 ## Inspiration
+<<<<<<< Updated upstream
 * [opensource.guide/metrics/](https://opensource.guide/metrics/)
+=======
+<<<<<<< HEAD
+* [opensource.guide/metrics/](https://opensource.guide/metrics/)
+=======
+* [opensource.guide/metrics/](https://opensource.guide/metrics/)
+>>>>>>> origin/master
+>>>>>>> Stashed changes
