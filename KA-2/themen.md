@@ -8,7 +8,7 @@
 * Künstliche Intelligenz
 	* [http://www.zeit.de/thema/kuenstliche-intelligenz](http://www.zeit.de/thema/kuenstliche-intelligenz)
 * Data Visualization
-* 4. Industrielle Revolution
+*  4. Industrielle Revolution
 
 # Code
 * HTML
