@@ -17,5 +17,6 @@
 
 
 # Datenmodellierung
+Weitere Informationen zur Datenmodellierung hier:
 
 * http://www.coli.uni-saarland.de/courses/is-is/slides/VLIWIS_DM_DBS.pdf
