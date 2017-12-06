@@ -13,7 +13,7 @@
 | Ref. Integrität:   | https://de.wikipedia.org/wiki/Referentielle_Integrit%C3%A4t                                                                    |  
 | SQL Befehle:       | http://www.ks-hechingen.de/DV_down/bs_SQL.pdf                                                                                  |  
 | NoSQL Befehle:     | https://www.udacity.com/course/data-wrangling-with-mongodb--ud032                                                              |  
-
+|Datenbankmodelle | https://www.tinohempel.de/info/info/datenbank/codd.htm |
 
 # Nützliche Links
-https://www.tinohempel.de/info/info/05_06_12_I_LK.htm
+* https://www.tinohempel.de/info/info/05_06_12_I_LK.htm
