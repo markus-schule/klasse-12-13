@@ -5,7 +5,7 @@
 |1| ER-Modell          | https://de.wikipedia.org/wiki/Entity-Relationship-Modell                                                                       |  
 |2| Entität            | https://de.wikipedia.org/wiki/Entit%C3%A4t_(Informatik)                                                                        |  
 |3| Beziehungen        | http://www.datenbanken-verstehen.de/datenmodellierung/beziehungen-datenbanken/                                                 |  
-|4| Relationenmodell:  | https://de.wikipedia.org/wiki/Relationale_Datenbankhttp://www.gitta.info/LogicModelin/de/html/RelDBDesign_RepKonzER.html       |  
+|4| Relationenmodell:  | https://de.wikipedia.org/wiki/Relationale_Datenbank * http://www.gitta.info/LogicModelin/de/html/RelDBDesign_RepKonzER.html       |  
 | x | Vor-und Nachteile: | http://www2.pmf.fh-goettingen.de/~jwitte/lehre/Medieninformatik/Datenbanken/Vorlesungskripte/Das%20Relationenmodell.pdf        |  
 |5| Tabellenaufbau:    | https://de.wikipedia.org/wiki/Datenbanktabelle                                                                                 |  
 |6| Terminologie:      | http://www.datenbanken-verstehen.de/datenmodellierung/grundbegriffe/ |  
