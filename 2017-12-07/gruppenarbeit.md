@@ -11,7 +11,7 @@
 |6| Terminologie:      | http://www.datenbanken-verstehen.de/datenmodellierung/grundbegriffe/ |  
 || Daten-Integrität:  | https://de.wikipedia.org/wiki/Konsistenz_(Datenspeicherung)#Konsistenz_in_klassischen_relationalen_Datenbanken                 |  
 |8| Ref. Integrität:   | https://de.wikipedia.org/wiki/Referentielle_Integrit%C3%A4t                                                                    |  
-|9| SQL Befehle:       | http://www.ks-hechingen.de/DV_down/bs_SQL.pdf                                                                                  |  
+|9| SQL Befehle:       | https://www.php-einfach.de/mysql-tutorial/uebersicht-sql-befehle/                                                                                 |  
 |10| NoSQL Befehle:     | https://www.udacity.com/course/data-wrangling-with-mongodb--ud032                                                              |  
 |11 |Datenbankmodelle | https://www.tinohempel.de/info/info/datenbank/codd.htm |
 
